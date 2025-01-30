@@ -20,9 +20,54 @@ body {
   background-color: transparent;
   border: none;
 }
+.botones2 {
+  padding: 9px;
+  border-radius: 80px;
+  background-color: transparent;
+  border: none;
+}
+.botones3 {
+  padding: 9px;
+  border-radius: 80px;
+  background-color: transparent;
+  border: none;
+}
+.botones4 {
+  padding: 9px;
+  border-radius: 80px;
+  background-color: transparent;
+  border: none;
+}
 
 .botones a {
-  background-color: #e90a0a;
+  background-color: #580ae9;
+  padding: 9px;
+  border-radius: 80px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  -o-border-radius: 80px;
+}
+.botones2 a {
+  background-color: #e90ac4;
+  padding: 9px;
+  border-radius: 80px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  -o-border-radius: 80px;
+}
+.botones3 a {
+  background-color: #ff9900;
+  padding: 9px;
+  border-radius: 80px;
+  -webkit-border-radius: 80px;
+  -moz-border-radius: 80px;
+  -ms-border-radius: 80px;
+  -o-border-radius: 80px;
+}
+.botones4 a {
+  background-color: #ff0000;
   padding: 9px;
   border-radius: 80px;
   -webkit-border-radius: 80px;
@@ -32,7 +77,16 @@ body {
 }
 
 .botones a:hover {
-  background-color: rgb(194, 50, 50);
+  background-color: #391779;
+}
+.botones2 a:hover {
+  background-color: #791758;
+}
+.botones3 a:hover {
+  background-color: #794b17;
+}
+.botones4 a:hover {
+  background-color: #791717;
 }
 
 .greetings {
