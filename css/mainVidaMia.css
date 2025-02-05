@@ -33,14 +33,14 @@ body {
 @media only screen and (max-width: 350px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
-    font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+    font-size: 12px; /* Reduce el tamaño del texto para dispositivos más pequeños */
     margin-bottom: 530px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
   }
   #lyrics2 {
-    font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+    font-size: 12px; /* Reduce el tamaño del texto para dispositivos más pequeños */
     margin-bottom: 550px;
-    letter-spacing: 3px;
+    letter-spacing: 1px;
   }
 }
 #lyrics2 {
@@ -56,9 +56,9 @@ body {
 @media only screen and (max-width: 350px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics2 {
-    font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
-    margin-bottom: 530px;
-    letter-spacing: 3px;
+    font-size: 12px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+    margin-bottom: 550px;
+    letter-spacing: 1px;
   }
 }
 .titulo {
@@ -1660,7 +1660,7 @@ h1 {
 @media screen and (max-width: 350px) {
   /* Estilos para pantallas pequeñas */
   h1 {
-    font-size: 1.5em;
+    font-size: 1em;
   }
 }
 

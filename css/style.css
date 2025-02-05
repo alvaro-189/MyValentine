@@ -147,15 +147,15 @@ body {
   color: #111;
 }
 
-@media screen and (max-width: 574px) {
+@media screen and (max-width: 360px) {
   .greetings {
     display: block;
-    font-size: 4rem;
+    font-size: 50px;
     font-weight: 800;
     text-align: center;
   }
   .description {
-    font-size: 2rem;
+    font-size: 1rem;
   }
 
   .button a {
