@@ -37,6 +37,11 @@ body {
     margin-bottom: 530px;
     letter-spacing: 3px;
   }
+  #lyrics2 {
+    font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
+    margin-bottom: 550px;
+    letter-spacing: 3px;
+  }
 }
 #lyrics2 {
   font-size: 28px;
