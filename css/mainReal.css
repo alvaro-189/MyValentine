@@ -30,11 +30,11 @@ body {
   font-weight: bold;
   letter-spacing: 4px;
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 828px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics {
     font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
-    margin-bottom: 530px;
+    margin-bottom: 160px;
     letter-spacing: 3px;
   }
   #lyrics2 {
@@ -53,7 +53,7 @@ body {
   font-weight: bold;
   letter-spacing: 4px;
 }
-@media only screen and (max-width: 350px) {
+@media only screen and (max-width: 828px) {
   /* Estilos específicos para dispositivos con un ancho máximo de 600px */
   #lyrics2 {
     font-size: 14px; /* Reduce el tamaño del texto para dispositivos más pequeños */
@@ -1657,7 +1657,7 @@ h1 {
 }
 
 /* Media Queries para tamaños de pantalla diferentes */
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 828px) {
   /* Estilos para pantallas pequeñas */
   h1 {
     font-size: 1em;
